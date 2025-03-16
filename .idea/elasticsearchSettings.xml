@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ElasticsearchConfiguration">
+    <option name="clusterConfigurations">
+      <map>
+        <entry key="4d5b34d5-b3c7-471f-8305-f62c4ce60610">
+          <value>
+            <ClusterConfigInternal>
+              <option name="authConfigInternal">
+                <AuthConfigInternal>
+                  <option name="authType" value="Basic Auth" />
+                </AuthConfigInternal>
+              </option>
+              <option name="id" value="4d5b34d5-b3c7-471f-8305-f62c4ce60610" />
+              <option name="label" value="@localhost" />
+              <option name="url" value="http://localhost:9200" />
+              <option name="version" value="1" />
+            </ClusterConfigInternal>
+          </value>
+        </entry>
+        <entry key="ea27639c-e096-4cf8-8378-705449d0124a">
+          <value>
+            <ClusterConfigInternal>
+              <option name="authConfigInternal">
+                <AuthConfigInternal>
+                  <option name="authType" value="Basic Auth" />
+                </AuthConfigInternal>
+              </option>
+              <option name="id" value="ea27639c-e096-4cf8-8378-705449d0124a" />
+              <option name="kibanaConfig">
+                <KibanaConfigInternal>
+                  <option name="useKibanaProxy" value="true" />
+                </KibanaConfigInternal>
+              </option>
+              <option name="label" value="@localhost:kibana" />
+              <option name="url" value="http://localhost:5601" />
+              <option name="version" value="1" />
+            </ClusterConfigInternal>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="version" value="2" />
+  </component>
+</project>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ElasticsearchRequestHistory">
+    <option name="requestHistory">
+      <map>
+        <entry key="4d5b34d5-b3c7-471f-8305-f62c4ce60610">
+          <value>
+            <list>
+              <HistoryRequest>
+                <option name="path" value="customer/_doc/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;doc&quot;: {&#10;    &quot;age&quot;: 31&#10;  }&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="customer/_update/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="path" value="customer/_doc/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;    &quot;doc&quot;: {&#10;        &quot;name&quot;: &quot;박상준(수정됨)&quot;&#10;    }&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="customer/_update/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;name&quot;: &quot;박상준(수정됨)&quot;&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="customer/type1/1/_update" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;name&quot;: &quot;박상준(수정됨)&quot;&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="customer/_doc/1/_update" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;name&quot;: &quot;박상준(수정됨)&quot;&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="customer/type/1/_update" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="path" value="customer/_doc/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="path" value="/_cat/indices?v" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;doc&quot;: {&#10;    &quot;name&quot;: &quot;박상준(수정됨)&quot;&#10;  }&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="customer/type/1/_update" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;doc&quot;: {&#10;    &quot;name&quot;: &quot;박상준(수정됨)&quot;&#10;  }&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="customer/_doc/1/_update" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;name&quot;: &quot;박상준&quot;&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="customer/_doc/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;doc&quot;: {&#10;    &quot;name&quot;: &quot;박상준&quot;&#10;  }&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="customer/_doc/1/_update" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;doc&quot;: {&#10;    &quot;age&quot;: 31&#10;  }&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="/customer/type/1/_update" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="path" value="/_cat/indices?v" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="path" value="customer/_doc/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="method" value="DELETE" />
+                <option name="path" value="customer" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;name&quot;: &quot;박상준&quot;&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="customer/_doc/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="method" value="DELETE" />
+                <option name="path" value="customer" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="path" value="/_cat/indices?v" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="path" value="customer/_doc/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="method" value="DELETE" />
+                <option name="path" value="customer/_doc/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="path" value="customer/_doc/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;from&quot; : 0,&#10;  &quot;size&quot; : 50,&#10;  &quot;query&quot; : {&#10;    &quot;match_all&quot; : {}&#10;  }&#10;}" />
+                <option name="path" value="/customer/_search" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;name&quot;: &quot;박상준&quot;&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="customer/_doc/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;from&quot; : 0,&#10;  &quot;size&quot; : 50,&#10;  &quot;query&quot; : {&#10;    &quot;match_all&quot; : {}&#10;  }&#10;}" />
+                <option name="path" value="/customer/_search" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;name&quot;: &quot;박상준&quot;&#10;}" />
+                <option name="method" value="POST" />
+                <option name="path" value="customer/type1/1" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="body" value="{&#10;  &quot;from&quot; : 0,&#10;  &quot;size&quot; : 50,&#10;  &quot;query&quot; : {&#10;    &quot;match_all&quot; : {}&#10;  }&#10;}" />
+                <option name="path" value="/customer/_search" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="path" value="/_cat/indices?v" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="method" value="PUT" />
+                <option name="path" value="/customer?pretty" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="path" value="/_cat/health?v" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="path" value="/_cat/nodes?v&amp;pretty" />
+              </HistoryRequest>
+              <HistoryRequest>
+                <option name="path" value="/_cat/nodes?v" />
+              </HistoryRequest>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
